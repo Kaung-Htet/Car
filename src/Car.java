@@ -14,4 +14,8 @@ public class Car {
         this.model = model;
     }
 
+    public String getModel (){
+        return this.model;
+    }
+
 }
